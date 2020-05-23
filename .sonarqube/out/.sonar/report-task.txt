@@ -1,0 +1,7 @@
+organization=mohamedhamed1234
+projectKey=mohamedhamed1234_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=mohamedhamed1234_mslearn-tailspin-spacegame-web
+ceTaskId=AXJB6yk9JO5CGlmhPphY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJB6yk9JO5CGlmhPphY
